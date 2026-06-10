@@ -1,17 +1,17 @@
 ```javascript
 const amirkhorasani = {
-    pronouns: "he" | "him",
-    role: "Frontend Developer",
-    birthDay: "26 Feb",
-    location: "kashan",
-    languages: ["TypeScript", "JavaScript"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        database: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Git", "VS Code", "Figma"]
-    },
-    currentFocus: "Building beautiful, performant web experiences",
-    funFact: "I think dark mode is the only mode 🌑"
+  pronouns: "he" | "him",
+  role: "Frontend Developer",
+  birthDay: "26 Feb",
+  location: "kashan",
+  languages: ["TypeScript", "JavaScript"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    database: ["MongoDB", "PostgreSQL"],
+    tools: ["Docker", "Git", "VS Code", "Figma"]
+  },
+  currentFocus: "Building beautiful, performant web experiences",
+  funFact: "I think dark mode is the only mode"
 };
 ```
 
