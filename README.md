@@ -1,4 +1,4 @@
-<img width="94" height="94" alt="image" src="https://github.com/user-attachments/assets/a86f04d7-b8b3-4c4d-9f66-04a368f612a5" />```
+```
 const response = {
   status: 200,
   data: {
