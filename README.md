@@ -17,3 +17,4 @@ const response = {
 };
 ```
 ---------------------------------------
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
