@@ -1,3 +1,4 @@
+```
 const response = {
   status: 200,
   data: {
@@ -14,3 +15,4 @@ const response = {
     ],
   }
 };
+```
