@@ -7,8 +7,7 @@ const amirkhorasani = {
   languages: ["TypeScript", "JavaScript"],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
-    database: ["MongoDB", "PostgreSQL"],
-    tools: ["Docker", "Git", "VS Code", "Figma"]
+    database: ["MongoDB"],
   },
   currentFocus: "Building beautiful, performant web experiences",
   funFact: "I think dark mode is the only mode"
@@ -19,7 +18,7 @@ const amirkhorasani = {
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,ts,redux,mongodb,docker,git,github,vscode,figma&theme=dark&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,ts,redux,mongodb&theme=dark&perline=14" alt="Tech Stack" />
   </a>
 </p>
 
