@@ -1,4 +1,4 @@
-``` diff
+```diff
 const response = {
   status: 200,
   data: {
